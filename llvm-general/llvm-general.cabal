@@ -58,7 +58,6 @@ custom-setup
   setup-depends: base
                , Cabal
                , containers
-               , setenv
                , template-haskell
 
 library

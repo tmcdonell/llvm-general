@@ -20,7 +20,6 @@ import Distribution.System
 import Distribution.PackageDescription
 import Distribution.Version
 import System.Environment
-import System.SetEnv
 import Language.Haskell.TH
 
 -- define these selectively in C files (where _not_ using HsFFI.h),
