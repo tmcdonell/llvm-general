@@ -59,6 +59,7 @@ custom-setup
                , Cabal
                , containers
                , setenv
+               , template-haskell
 
 library
   build-tools: llvm-config
